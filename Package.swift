@@ -21,7 +21,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Calculator",
-            url: "https://github.com/sandeep-madineni/Calculator/releases/tag/1.0.0/Calculator.xcframework.zip",
+            url: "https://github.com/sandeep-madineni/Calculator/raw/main/Calculator.xcframework.zip",
             checksum: "a1a3e2c98c9ad91f9a74015485da77c0daf300f37862ed9fdc89fdc6e8375ee4")
     ]
 )
